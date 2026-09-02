@@ -24,3 +24,17 @@
 
 \- Doctor availability and schedule
 
+
+
+\## Receptionist
+
+
+
+\- Patient registration
+
+\- Appointment scheduling
+
+\- Doctor schedule management
+
+\- Basic billing assistance
+
