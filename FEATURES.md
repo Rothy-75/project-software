@@ -10,3 +10,17 @@
 
 \- Input validation
 
+
+
+
+
+\## Doctor Management
+
+
+
+\- Doctor information management
+
+\- Doctor profile and specialization
+
+\- Doctor availability and schedule
+
